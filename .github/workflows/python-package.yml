@@ -38,6 +38,7 @@ jobs:
         python -m pip install tqdm
         python -m pip install torch
         python -m pip install transformers
+        python -m pip install pytest
     - name: Run Tests
       run: |
         pytest
