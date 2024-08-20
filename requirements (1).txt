@@ -1,0 +1,11 @@
+﻿numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+spacy
+textblob
+tqdm
+torch      # using PyTorch for deep learning models
+transformers  # using models from Hugging Face
